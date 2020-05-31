@@ -1,6 +1,6 @@
 # Advanced Internet Applications – laboratory - ASP.NET MVC
 
-**Description :** The aim of the exercice was to familiaze with ASP.NET MVC. For this, I followed the following tutorial from Microsoft : https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.1  
+**Description :** The aim of the exercice was to familiaze with ASP.NET MVC. For this purpose, I followed the following tutorial from Microsoft : https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.1  
 In this description, I won't describe the code because everything is already well described in the tutorial. I'll first answer to the questions, then explain the problems I met, finally I will explain my point of view about this technology, with what I learn.
 
 ## What  are  the  responsibilities  of  each  layer  of  the  MVC  architecture  and  how  are  they connected?
